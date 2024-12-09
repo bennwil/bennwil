@@ -3,7 +3,7 @@
 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-I am a motivated security analyst seeking an entry-level cybersecurity position to apply my skills in network security, security policy, and organizational risk management.
+
 
 
 
@@ -13,7 +13,7 @@ I am a motivated security analyst seeking an entry-level cybersecurity position 
 
 ## Objective
 
-Motivated and detail-oriented Security Analyst with CompTIA Security+ certification and a strong network security, risk management, and incident response background. Dedicated to identifying and mitigating cybersecurity threats, ensuring compliance with industry standards, and safeguarding critical information systems. I am seeking to contribute my technical expertise and analytical skills to a forward-thinking organization by proactively enhancing security measures, managing vulnerabilities, and responding to emerging threats in a fast-paced environment.
+I am a motivated security analyst seeking an entry-level cybersecurity position to contribute my technical expertise and analytical skills to a forward-thinking organization by proactively enhancing security measures, managing vulnerabilities, and responding to emerging threats in a fast-paced environment.
 
 
 ## Skills
