@@ -25,13 +25,13 @@ I am a motivated security analyst seeking an entry-level cybersecurity position 
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/bennwil/Network-Traffic-Analysis/blob/main/README.md">Network-Traffic-Analysis Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-008080?&style=for-the-badge&logo=pfSense&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 ### Endpoint
