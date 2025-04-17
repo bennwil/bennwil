@@ -55,5 +55,5 @@ I am a motivated security analyst seeking an entry-level cybersecurity position 
 ## Projects
 - <a href="https://github.com/bennwil/Firewall-Lab/blob/main/README.md">Firewall Lab</a>
 - <a href="https://github.com/bennwil/Network-Traffic-Analysis/blob/main/README.md">Network-Traffic-Analysis Lab</a>
-- <a href="https://github.com/bennwil/Pentest/edit/main/README.md">Penetration Testing</a>|
+- <a href="https://github.com/bennwil/Pentest/edit/main/README.md">Penetration Testing</a>
 
