@@ -23,7 +23,7 @@ I am a motivated security analyst seeking an entry-level cybersecurity position 
 |-----------------------------------------------|----------------------------|
 | Build and Configuration of a Firewall          | <a href="https://github.com/bennwil/Firewall-Lab/blob/main/README.md">Firewall Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/bennwil/Network-Traffic-Analysis/blob/main/README.md">Network-Traffic-Analysis Lab</a>|
-| Penetration Teasting                            | <a href="https://github.com/bennwil/Pentest/edit/main/README.md">Penetration Testing</a>|
+| Penetration Teasting                            | <a href="https://https://github.com/bennwil/Pentest/edit/main/README.md">Penetration Testing</a>|
 ## Tools
 
 ### Network
